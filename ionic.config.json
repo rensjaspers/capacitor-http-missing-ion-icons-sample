@@ -1,0 +1,7 @@
+{
+  "name": "capacitor-http-missing-ion-icons-sample",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
